@@ -1,0 +1,5 @@
+name=input("Enter Your name: ")
+print("Total characters: ",len(name))
+print("First character: ",name[0])
+print("Last character: ",name[-1])
+print("Name in upper form",name.upper())
